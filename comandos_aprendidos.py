@@ -3,7 +3,8 @@
 # ===============================
 
 # PRINT: imprime algo na tela
-print("Olá, mundo!")
+print("Olá, mundo! Victor passou por aqui!")
+print("Jajá Daniel passa, se a internet deixar!")
 
 # VARIÁVEIS: armazenam valores
 nome = "João"
